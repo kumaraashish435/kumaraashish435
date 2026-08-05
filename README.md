@@ -1,6 +1,6 @@
 # Aashish Kumar
 
-**Software Engineer at HCLTech**
+**Software Engineer**
 **Software Engineer | Graphics Programming | Space Technology**
 
 ---
