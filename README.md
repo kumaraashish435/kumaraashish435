@@ -1,55 +1,87 @@
 # Aashish Kumar
 
-Software Engineer at HCLTech
-Aspiring Game Programmer (Unity / Unreal)
-Interested in AI systems and intelligent gameplay
+**Software Engineer at HCLTech**
+**Software Engineer | Graphics Programming | Space Technology**
 
+---
 
-ABOUT
+## About
 
-I am a software engineer with experience in C++, C#, Python, and web technologies.
-Currently transitioning into game development with a focus on gameplay programming and AI-driven systems.
+I'm a software engineer who enjoys building software from the ground up, from backend services and web applications to graphics and game systems. I like understanding how things work internally and continuously explore new technologies by building practical projects.
 
-I enjoy building systems that combine logic, performance, and real-world usability.
+My current focus is on graphics programming, simulation, and software for the space industry, while continuing to strengthen my foundations in system design and software engineering.
 
+---
 
-TECH STACK
+## Technologies
 
-Languages:
-C++ | C# | Python | JavaScript
+### Languages
 
-Game Development:
-Unity | Unreal Engine (learning)
+* C++
+* C#
+* Python
+* JavaScript
+* TypeScript
 
-Backend / Web:
-ASP.NET | SQL Server | HTML | CSS
+### Frameworks & Tools
 
-Other:
-Machine Learning | Automation | APIs | Web Scraping
+* .NET
+* ASP.NET Core
+* Angular
+* OpenGL
+* Unity
+* CMake
+* Premake
+* Git
 
-PROJECTS (FOCUS AREA)
+### Areas of Interest
 
-2D Platformer Game
+* Graphics Programming
+* Game Development
+* Space Technology
+* System Design
+* Machine Learning
+* APIs
+* Automation
 
-* Movement, physics, collision system
+---
 
-Shooting / FPS Prototype
+## Projects
 
-* Shooting mechanics, enemy logic, health system
+### 2D Platformer
 
-AI-Based Game (in progress)
+A platformer focused on movement, physics, collision detection, and gameplay systems.
 
-* Intelligent NPC behavior
-* Pathfinding and decision systems
+### FPS Prototype
 
+A first-person shooter prototype with combat mechanics, enemy AI, and health systems.
 
-CURRENT FOCUS
+### Graphics Experiments
 
-* Building game projects in Unity
-* Learning Unreal Engine and advanced C++ concepts
-* Integrating AI into gameplay systems
+Projects exploring rendering techniques, OpenGL, shaders, cameras, and real-time graphics programming.
 
+### Space Software *(In Progress)*
 
-GOAL
+Building software related to orbital visualization, satellite tracking, and space simulations.
 
-To become a game programmer working on gameplay systems and AI-driven mechanics.
+---
+
+## Currently Learning
+
+* Graphics Programming
+* OpenGL
+* C++
+* .NET
+* Angular
+* C#
+* System Design
+* CMake
+* Premake
+* Software Architecture
+* Space Engineering Concepts
+
+---
+
+## Goal
+
+I'm currently exploring the space technology domain by building software related to visualization, simulation, and engineering. My goal is to deepen my understanding of graphics, software architecture, and space systems through hands-on projects while continuing to grow as a software engineer.
