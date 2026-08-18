@@ -1,7 +1,7 @@
 <h1 align="left">Kumar Aashish</h1>
 
 <p align="left">
-  Software Engineer · Graphics Programming · Space Technology<br>
+  .NET Full-Stack & C++ Developer · C#/C++ with AI · OpenGL, Real-Time Graphics, Simulation & Space Tech
   <sub>Noida, India</sub>
 </p>
 
